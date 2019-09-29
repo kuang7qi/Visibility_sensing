@@ -1,5 +1,8 @@
 # Visibility_Sensing
 The code for ENGR-E-390 (Undergraduate Independent Study) for visibility sensing.
+The project was done in Spring 2019 under the guidance of Prof. Bryce Himebaugh (bhimebau@iu.edu).
+Details of the Project can be found under the Project Report File.
+*** This project is still incomplete and needs more work to be done in order to achieve the goals set. ***
 
 # Instructions to run test the code
 
